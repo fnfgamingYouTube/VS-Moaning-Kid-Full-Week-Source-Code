@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="powered-carlos_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="powered carlos down0000" x="0" y="0" width="801" height="724"/>
+	<SubTexture name="powered carlos down0001" x="801" y="0" width="801" height="610" frameX="0" frameY="-110" frameWidth="801" frameHeight="724"/>
+	<SubTexture name="powered carlos down0002" x="1602" y="0" width="801" height="454" frameX="0" frameY="-266" frameWidth="801" frameHeight="724"/>
+	<SubTexture name="powered carlos down0003" x="2403" y="0" width="801" height="290" frameX="0" frameY="-430" frameWidth="801" frameHeight="724"/>
+	<SubTexture name="powered carlos down0004" x="3204" y="0" width="801" height="610" frameX="0" frameY="-110" frameWidth="801" frameHeight="724"/>
+	<SubTexture name="powered carlos down0005" x="0" y="724" width="801" height="724" frameX="0" frameY="0" frameWidth="801" frameHeight="783"/>
+	<SubTexture name="powered carlos idle0000" x="0" y="724" width="801" height="724" frameX="0" frameY="-16" frameWidth="801" frameHeight="783"/>
+	<SubTexture name="powered carlos idle0001" x="0" y="724" width="801" height="724" frameX="0" frameY="-24" frameWidth="801" frameHeight="783"/>
+	<SubTexture name="powered carlos idle0002" x="0" y="724" width="801" height="724" frameX="0" frameY="0" frameWidth="801" frameHeight="783"/>
+	<SubTexture name="powered carlos idle0003" x="0" y="724" width="801" height="724" frameX="0" frameY="-31" frameWidth="801" frameHeight="783"/>
+	<SubTexture name="powered carlos idle0004" x="0" y="724" width="801" height="724" frameX="0" frameY="-58" frameWidth="801" frameHeight="783"/>
+	<SubTexture name="powered carlos idle0005" x="0" y="724" width="801" height="724" frameX="0" frameY="-5" frameWidth="801" frameHeight="783"/>
+	<SubTexture name="powered carlos left0000" x="801" y="724" width="723" height="796" frameX="-253" frameY="0" frameWidth="976" frameHeight="796"/>
+	<SubTexture name="powered carlos left0001" x="801" y="724" width="723" height="796" frameX="-210" frameY="0" frameWidth="976" frameHeight="796"/>
+	<SubTexture name="powered carlos left0002" x="801" y="724" width="723" height="796" frameX="-141" frameY="0" frameWidth="976" frameHeight="796"/>
+	<SubTexture name="powered carlos left0003" x="801" y="724" width="723" height="796" frameX="-82" frameY="0" frameWidth="976" frameHeight="796"/>
+	<SubTexture name="powered carlos left0004" x="801" y="724" width="723" height="796" frameX="-7" frameY="0" frameWidth="976" frameHeight="796"/>
+	<SubTexture name="powered carlos left0005" x="1524" y="724" width="723" height="796" frameX="0" frameY="0" frameWidth="976" frameHeight="796"/>
+	<SubTexture name="powered carlos right0000" x="2247" y="724" width="879" height="724" frameX="0" frameY="0" frameWidth="1099" frameHeight="724"/>
+	<SubTexture name="powered carlos right0001" x="3126" y="724" width="880" height="724" frameX="-78" frameY="0" frameWidth="1099" frameHeight="724"/>
+	<SubTexture name="powered carlos right0002" x="0" y="1520" width="880" height="724" frameX="-188" frameY="0" frameWidth="1099" frameHeight="724"/>
+	<SubTexture name="powered carlos right0003" x="880" y="1520" width="880" height="724" frameX="-196" frameY="0" frameWidth="1099" frameHeight="724"/>
+	<SubTexture name="powered carlos right0004" x="0" y="1520" width="880" height="724" frameX="-207" frameY="0" frameWidth="1099" frameHeight="724"/>
+	<SubTexture name="powered carlos right0005" x="1760" y="1520" width="880" height="724" frameX="-219" frameY="0" frameWidth="1099" frameHeight="724"/>
+	<SubTexture name="powered carlos up0000" x="2640" y="1520" width="801" height="724" frameX="0" frameY="-240" frameWidth="801" frameHeight="991"/>
+	<SubTexture name="powered carlos up0001" x="0" y="2244" width="801" height="823" frameX="0" frameY="-144" frameWidth="801" frameHeight="991"/>
+	<SubTexture name="powered carlos up0002" x="801" y="2244" width="801" height="991"/>
+	<SubTexture name="powered carlos up0003" x="1602" y="2244" width="801" height="879" frameX="0" frameY="-11" frameWidth="801" frameHeight="991"/>
+	<SubTexture name="powered carlos up0004" x="2403" y="2244" width="801" height="685" frameX="0" frameY="-62" frameWidth="801" frameHeight="991"/>
+	<SubTexture name="powered carlos up0005" x="3204" y="2244" width="801" height="686" frameX="0" frameY="-291" frameWidth="801" frameHeight="991"/>
+</TextureAtlas>

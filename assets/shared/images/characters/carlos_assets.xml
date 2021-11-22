@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carlos_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="carlos down0000" x="0" y="0" width="231" height="355" frameX="0" frameY="0" frameWidth="231" frameHeight="511"/>
+	<SubTexture name="carlos down0001" x="231" y="0" width="231" height="355" frameX="0" frameY="-29" frameWidth="231" frameHeight="511"/>
+	<SubTexture name="carlos down0002" x="462" y="0" width="231" height="355" frameX="0" frameY="-65" frameWidth="231" frameHeight="511"/>
+	<SubTexture name="carlos down0003" x="693" y="0" width="231" height="356" frameX="0" frameY="-89" frameWidth="231" frameHeight="511"/>
+	<SubTexture name="carlos down0004" x="693" y="0" width="231" height="356" frameX="0" frameY="-105" frameWidth="231" frameHeight="511"/>
+	<SubTexture name="carlos down0005" x="924" y="0" width="231" height="356" frameX="0" frameY="-155" frameWidth="231" frameHeight="511"/>
+	<SubTexture name="carlos idle0000" x="1155" y="0" width="316" height="255"/>
+	<SubTexture name="carlos idle0001" x="1471" y="0" width="316" height="197" frameX="0" frameY="-51" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="carlos idle0002" x="0" y="356" width="316" height="155" frameX="0" frameY="-95" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="carlos idle0003" x="316" y="356" width="316" height="103" frameX="0" frameY="-149" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="carlos idle0004" x="632" y="356" width="316" height="197" frameX="0" frameY="-51" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="carlos idle0005" x="948" y="356" width="316" height="255"/>
+	<SubTexture name="carlos left0000" x="1264" y="356" width="231" height="355" frameX="-215" frameY="0" frameWidth="446" frameHeight="355"/>
+	<SubTexture name="carlos left0001" x="1495" y="356" width="231" height="355" frameX="-153" frameY="0" frameWidth="446" frameHeight="355"/>
+	<SubTexture name="carlos left0002" x="1726" y="356" width="231" height="355" frameX="-99" frameY="0" frameWidth="446" frameHeight="355"/>
+	<SubTexture name="carlos left0003" x="0" y="711" width="231" height="355" frameX="-57" frameY="0" frameWidth="446" frameHeight="355"/>
+	<SubTexture name="carlos left0004" x="231" y="711" width="231" height="355" frameX="-34" frameY="0" frameWidth="446" frameHeight="355"/>
+	<SubTexture name="carlos left0005" x="462" y="711" width="231" height="355" frameX="0" frameY="0" frameWidth="446" frameHeight="355"/>
+	<SubTexture name="carlos right0000" x="693" y="711" width="231" height="355" frameX="0" frameY="0" frameWidth="524" frameHeight="355"/>
+	<SubTexture name="carlos right0001" x="924" y="711" width="231" height="355" frameX="-48" frameY="0" frameWidth="524" frameHeight="355"/>
+	<SubTexture name="carlos right0002" x="1155" y="711" width="232" height="355" frameX="-107" frameY="0" frameWidth="524" frameHeight="355"/>
+	<SubTexture name="carlos right0003" x="1387" y="711" width="232" height="355" frameX="-169" frameY="0" frameWidth="524" frameHeight="355"/>
+	<SubTexture name="carlos right0004" x="1619" y="711" width="232" height="355" frameX="-231" frameY="0" frameWidth="524" frameHeight="355"/>
+	<SubTexture name="carlos right0005" x="0" y="1066" width="232" height="355" frameX="-292" frameY="0" frameWidth="524" frameHeight="355"/>
+	<SubTexture name="carlos transform0000" x="232" y="1066" width="231" height="356" frameX="-4" frameY="-42" frameWidth="244" frameHeight="400"/>
+	<SubTexture name="carlos transform0001" x="463" y="1066" width="235" height="356" frameX="0" frameY="-42" frameWidth="244" frameHeight="400"/>
+	<SubTexture name="carlos transform0002" x="698" y="1066" width="235" height="356" frameX="0" frameY="-42" frameWidth="244" frameHeight="400"/>
+	<SubTexture name="carlos transform0003" x="933" y="1066" width="235" height="356" frameX="0" frameY="-42" frameWidth="244" frameHeight="400"/>
+	<SubTexture name="carlos transform0004" x="1168" y="1066" width="235" height="361" frameX="0" frameY="-39" frameWidth="244" frameHeight="400"/>
+	<SubTexture name="carlos transform0005" x="1403" y="1066" width="244" height="361" frameX="0" frameY="-39" frameWidth="244" frameHeight="400"/>
+	<SubTexture name="carlos transform0006" x="1647" y="1066" width="244" height="361" frameX="0" frameY="-39" frameWidth="244" frameHeight="400"/>
+	<SubTexture name="carlos transform0007" x="0" y="1427" width="244" height="400"/>
+	<SubTexture name="carlos up0000" x="244" y="1427" width="231" height="355" frameX="0" frameY="-268" frameWidth="231" frameHeight="623"/>
+	<SubTexture name="carlos up0001" x="475" y="1427" width="231" height="355" frameX="0" frameY="-228" frameWidth="231" frameHeight="623"/>
+	<SubTexture name="carlos up0002" x="706" y="1427" width="231" height="355" frameX="0" frameY="-177" frameWidth="231" frameHeight="623"/>
+	<SubTexture name="carlos up0003" x="937" y="1427" width="231" height="355" frameX="0" frameY="-122" frameWidth="231" frameHeight="623"/>
+	<SubTexture name="carlos up0004" x="1168" y="1427" width="231" height="355" frameX="0" frameY="-60" frameWidth="231" frameHeight="623"/>
+	<SubTexture name="carlos up0005" x="1399" y="1427" width="231" height="355" frameX="0" frameY="0" frameWidth="231" frameHeight="623"/>
+	<SubTexture name="pre carlos transform0000" x="0" y="1427" width="244" height="400"/>
+	<SubTexture name="pre carlos transform0001" x="0" y="1427" width="244" height="400"/>
+	<SubTexture name="pre carlos transform0002" x="0" y="1427" width="244" height="400"/>
+	<SubTexture name="pre carlos transform0003" x="0" y="1427" width="244" height="400"/>
+	<SubTexture name="pre carlos transform0004" x="0" y="1427" width="244" height="400"/>
+	<SubTexture name="pre carlos transform0005" x="0" y="1427" width="244" height="400"/>
+</TextureAtlas>

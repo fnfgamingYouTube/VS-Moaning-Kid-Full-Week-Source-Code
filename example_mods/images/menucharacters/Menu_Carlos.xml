@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Carlos.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Carlos Idle0000" x="0" y="0" width="316" height="255"/>
+	<SubTexture name="M Carlos Idle0001" x="316" y="0" width="316" height="197" frameX="0" frameY="-51" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="M Carlos Idle0002" x="632" y="0" width="316" height="155" frameX="0" frameY="-95" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="M Carlos Idle0003" x="0" y="255" width="316" height="103" frameX="0" frameY="-149" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="M Carlos Idle0004" x="316" y="0" width="316" height="197" frameX="0" frameY="-51" frameWidth="316" frameHeight="255"/>
+	<SubTexture name="M Carlos Idle0005" x="0" y="0" width="316" height="255"/>
+</TextureAtlas>

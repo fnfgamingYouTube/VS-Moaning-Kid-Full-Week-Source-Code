@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-180
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "carlos left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				70
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "carlos down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				182
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "carlos up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				-182
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "carlos right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-304
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "carlos idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-120
+			],
+			"anim": "pre carlos transform",
+			"fps": 24,
+			"name": "pre carlos transform",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "carlos transform",
+			"indices": [],
+			"name": "carlos transform"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/carlos_assets",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "carlos",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-240,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

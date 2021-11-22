@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "corrupted baldi left",
+			"loop": false,
+			"name": "corrupted baldi left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "corrupted baldi idle",
+			"loop": false,
+			"name": "corrupted baldi idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "corrupted baldi down",
+			"loop": false,
+			"name": "corrupted baldi down"
+		},
+		{
+			"offsets": [
+				0,
+				280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "corrupted baldi up",
+			"loop": false,
+			"name": "corrupted baldi up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "corrupted baldi right",
+			"loop": false,
+			"name": "corrupted baldi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/baldi_assets",
+	"position": [
+		10,
+		140
+	],
+	"healthicon": "baldi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-130,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

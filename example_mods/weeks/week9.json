@@ -1,0 +1,25 @@
+{
+	"storyName": "part 2 of da week lol",
+	"hideFreeplay": true,
+	"weekBackground": "house",
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"carlos",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"chaos",
+			"horny-carlos",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 9"
+}

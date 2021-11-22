@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baldi_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="corrupted baldi down0000" x="919" y="509" width="419" height="508" frameX="0" frameY="0" frameWidth="429" frameHeight="508"/>
+	<SubTexture name="corrupted baldi down0001" x="0" y="0" width="419" height="416" frameX="0" frameY="-92" frameWidth="419" frameHeight="508"/>
+	<SubTexture name="corrupted baldi down0002" x="419" y="0" width="419" height="336" frameX="0" frameY="-164" frameWidth="419" frameHeight="508"/>
+	<SubTexture name="corrupted baldi down0003" x="838" y="0" width="419" height="231" frameX="0" frameY="-252" frameWidth="419" frameHeight="508"/>
+	<SubTexture name="corrupted baldi down0004" x="838" y="0" width="419" height="231" frameX="0" frameY="-238" frameWidth="419" frameHeight="508"/>
+	<SubTexture name="corrupted baldi down0005" x="838" y="0" width="419" height="231" frameX="0" frameY="-261" frameWidth="419" frameHeight="508"/>
+	<SubTexture name="corrupted baldi idle0000" x="1257" y="0" width="450" height="509"/>
+	<SubTexture name="corrupted baldi left0000" x="1257" y="0" width="450" height="509"/>
+	<SubTexture name="corrupted baldi left0001" x="1707" y="0" width="157" height="508" frameX="-142" frameY="0" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="corrupted baldi left0002" x="1864" y="0" width="16" height="508" frameX="-212" frameY="0" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="corrupted baldi left0003" x="1880" y="0" width="162" height="508" frameX="-140" frameY="0" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="corrupted baldi left0004" x="0" y="509" width="409" height="508" frameX="-16" frameY="0" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="corrupted baldi left0005" x="0" y="509" width="409" height="508" frameX="-5" frameY="0" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="corrupted baldi right0000" x="0" y="509" width="409" height="508" frameX="-5" frameY="0" frameWidth="449" frameHeight="508"/>
+	<SubTexture name="corrupted baldi right0001" x="409" y="509" width="267" height="508" frameX="-76" frameY="0" frameWidth="429" frameHeight="508"/>
+	<SubTexture name="corrupted baldi right0002" x="676" y="509" width="25" height="508" frameX="-197" frameY="0" frameWidth="429" frameHeight="508"/>
+	<SubTexture name="corrupted baldi right0003" x="701" y="509" width="218" height="508" frameX="-101" frameY="0" frameWidth="429" frameHeight="508"/>
+	<SubTexture name="corrupted baldi right0004" x="919" y="509" width="419" height="508" frameX="0" frameY="0" frameWidth="429" frameHeight="508"/>
+	<SubTexture name="corrupted baldi right0005" x="919" y="509" width="419" height="508" frameX="-10" frameY="0" frameWidth="429" frameHeight="508"/>
+	<SubTexture name="corrupted baldi up0000" x="919" y="509" width="419" height="508" frameX="0" frameY="-258" frameWidth="429" frameHeight="508"/>
+	<SubTexture name="corrupted baldi up0001" x="1338" y="509" width="419" height="578" frameX="0" frameY="-198" frameWidth="419" frameHeight="786"/>
+	<SubTexture name="corrupted baldi up0002" x="0" y="1087" width="419" height="648" frameX="0" frameY="-126" frameWidth="419" frameHeight="786"/>
+	<SubTexture name="corrupted baldi up0003" x="419" y="1087" width="419" height="762" frameX="0" frameY="-15" frameWidth="419" frameHeight="786"/>
+	<SubTexture name="corrupted baldi up0004" x="419" y="1087" width="419" height="762" frameX="0" frameY="0" frameWidth="419" frameHeight="786"/>
+	<SubTexture name="corrupted baldi up0005" x="419" y="1087" width="419" height="762" frameX="0" frameY="-24" frameWidth="419" frameHeight="786"/>
+</TextureAtlas>

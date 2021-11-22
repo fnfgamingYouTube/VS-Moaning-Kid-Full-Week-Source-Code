@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				228,
+				130
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "powered carlos left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				160
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "powered carlos down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				141,
+				392
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "powered carlos up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				204,
+				168
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "powered carlos right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				204,
+				198
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "powered carlos idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/powered-carlos_assets",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "powered-carlos",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		-330,
+		-180
+	],
+	"sing_duration": 6.1,
+	"scale": 0.899999999999999
+}

@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "carlos",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "now i know my disablity, that doesn't stop me from being horny lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait how is everlasting horny a disablity, i guess it's real lol"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "i'm still gonna rap battle you though!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "carlos",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh haven't you figured out the controls of 3 key mania yet?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'm still gonna rap battle you lol, wait everlasting horny can't be a disablity!"
+		}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"storyName": "Mission: Save The Corruption And Chaos!",
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"weekBefore": "week7",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"carlos",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Platinum",
+			"carlos",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Everlasting",
+			"carlos",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Retroballs",
+			"powered-carlos",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 8"
+}

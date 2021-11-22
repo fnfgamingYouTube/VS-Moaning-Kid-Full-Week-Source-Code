@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mickey_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="corrupted mickey down0000" x="2412" y="0" width="804" height="532" frameX="0" frameY="0" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey down0001" x="0" y="0" width="804" height="432" frameX="0" frameY="-92" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey down0002" x="804" y="0" width="804" height="304" frameX="0" frameY="-216" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey down0003" x="1608" y="0" width="804" height="139" frameX="0" frameY="-376" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey down0004" x="1608" y="0" width="804" height="139" frameX="0" frameY="-370" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey down0005" x="1608" y="0" width="804" height="139" frameX="0" frameY="-376" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey idle0000" x="2412" y="0" width="804" height="532" frameX="0" frameY="0" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey idle0001" x="3216" y="0" width="804" height="478" frameX="0" frameY="-56" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey idle0002" x="0" y="532" width="804" height="416" frameX="0" frameY="-108" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey idle0003" x="804" y="532" width="804" height="328" frameX="0" frameY="-183" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey idle0004" x="3216" y="0" width="804" height="478" frameX="0" frameY="-56" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey idle0005" x="2412" y="0" width="804" height="532" frameX="0" frameY="0" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey left0000" x="2412" y="0" width="804" height="532" frameX="0" frameY="0" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey left0001" x="1608" y="532" width="804" height="436" frameX="0" frameY="-83" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey left0002" x="2412" y="532" width="804" height="221" frameX="0" frameY="-264" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey left0003" x="3216" y="532" width="524" height="221" frameX="-65" frameY="-264" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey left0004" x="0" y="968" width="538" height="221" frameX="-58" frameY="-264" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey left0005" x="538" y="968" width="538" height="382" frameX="-58" frameY="-109" frameWidth="804" frameHeight="532"/>
+	<SubTexture name="corrupted mickey right0000" x="2412" y="0" width="804" height="532" frameX="0" frameY="0" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey right0001" x="1076" y="968" width="1008" height="532" frameX="-15" frameY="0" frameWidth="1480" frameHeight="532"/>
+	<SubTexture name="corrupted mickey right0002" x="2084" y="968" width="1192" height="532" frameX="-47" frameY="0" frameWidth="1480" frameHeight="532"/>
+	<SubTexture name="corrupted mickey right0003" x="0" y="1500" width="1387" height="532" frameX="-77" frameY="0" frameWidth="1480" frameHeight="532"/>
+	<SubTexture name="corrupted mickey right0004" x="0" y="1500" width="1387" height="532" frameX="-93" frameY="0" frameWidth="1480" frameHeight="532"/>
+	<SubTexture name="corrupted mickey right0005" x="0" y="1500" width="1387" height="532" frameX="-75" frameY="0" frameWidth="1480" frameHeight="532"/>
+	<SubTexture name="corrupted mickey up0000" x="2412" y="0" width="804" height="532" frameX="0" frameY="-492" frameWidth="804" frameHeight="534"/>
+	<SubTexture name="corrupted mickey up0001" x="1387" y="1500" width="804" height="658" frameX="0" frameY="-372" frameWidth="804" frameHeight="1045"/>
+	<SubTexture name="corrupted mickey up0002" x="2191" y="1500" width="804" height="830" frameX="0" frameY="-200" frameWidth="804" frameHeight="1045"/>
+	<SubTexture name="corrupted mickey up0003" x="2995" y="1500" width="804" height="1030" frameX="0" frameY="-9" frameWidth="804" frameHeight="1045"/>
+	<SubTexture name="corrupted mickey up0004" x="2995" y="1500" width="804" height="1030" frameX="0" frameY="0" frameWidth="804" frameHeight="1045"/>
+	<SubTexture name="corrupted mickey up0005" x="2995" y="1500" width="804" height="1030" frameX="0" frameY="-15" frameWidth="804" frameHeight="1045"/>
+</TextureAtlas>

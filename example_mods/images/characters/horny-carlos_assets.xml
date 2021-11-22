@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="horny-carlos_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="horny carlos down0000" x="1374" y="0" width="458" height="608" frameX="0" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos down0001" x="0" y="0" width="458" height="476" frameX="0" frameY="-129" frameWidth="458" frameHeight="608"/>
+	<SubTexture name="horny carlos down0002" x="458" y="0" width="458" height="384" frameX="0" frameY="-218" frameWidth="458" frameHeight="608"/>
+	<SubTexture name="horny carlos down0003" x="916" y="0" width="458" height="188" frameX="0" frameY="-385" frameWidth="458" frameHeight="608"/>
+	<SubTexture name="horny carlos down0004" x="916" y="0" width="458" height="188" frameX="0" frameY="-380" frameWidth="458" frameHeight="608"/>
+	<SubTexture name="horny carlos down0005" x="916" y="0" width="458" height="188" frameX="0" frameY="-385" frameWidth="458" frameHeight="608"/>
+	<SubTexture name="horny carlos idle0000" x="1374" y="0" width="458" height="608" frameX="0" frameY="-14" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos idle0001" x="1374" y="0" width="458" height="608" frameX="0" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos idle0002" x="1374" y="0" width="458" height="608" frameX="0" frameY="-14" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos idle0003" x="1374" y="0" width="458" height="608" frameX="0" frameY="-39" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos idle0004" x="1374" y="0" width="458" height="608" frameX="0" frameY="-14" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos idle0005" x="1374" y="0" width="458" height="608" frameX="0" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos left0000" x="1374" y="0" width="458" height="608" frameX="-132" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos left0001" x="1374" y="0" width="458" height="608" frameX="-80" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos left0002" x="1374" y="0" width="458" height="608" frameX="-38" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos left0003" x="1374" y="0" width="458" height="608" frameX="-1" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos left0004" x="1374" y="0" width="458" height="608" frameX="-9" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos left0005" x="1374" y="0" width="458" height="608" frameX="0" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos right0000" x="1374" y="0" width="458" height="608" frameX="0" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos right0001" x="1374" y="0" width="458" height="608" frameX="-44" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos right0002" x="1374" y="0" width="458" height="608" frameX="-113" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos right0003" x="1374" y="0" width="458" height="608" frameX="-195" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos right0004" x="1374" y="0" width="458" height="608" frameX="-206" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos right0005" x="1374" y="0" width="458" height="608" frameX="-195" frameY="0" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos up0000" x="1374" y="0" width="458" height="608" frameX="0" frameY="-564" frameWidth="458" frameHeight="647"/>
+	<SubTexture name="horny carlos up0001" x="0" y="608" width="458" height="714" frameX="0" frameY="-452" frameWidth="458" frameHeight="1172"/>
+	<SubTexture name="horny carlos up0002" x="458" y="608" width="458" height="769" frameX="0" frameY="-392" frameWidth="458" frameHeight="1172"/>
+	<SubTexture name="horny carlos up0003" x="916" y="608" width="458" height="1137" frameX="0" frameY="-15" frameWidth="458" frameHeight="1172"/>
+	<SubTexture name="horny carlos up0004" x="916" y="608" width="458" height="1137" frameX="0" frameY="0" frameWidth="458" frameHeight="1172"/>
+	<SubTexture name="horny carlos up0005" x="916" y="608" width="458" height="1137" frameX="0" frameY="-15" frameWidth="458" frameHeight="1172"/>
+</TextureAtlas>
